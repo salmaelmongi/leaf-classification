@@ -4,6 +4,9 @@
 
 This project aims to classify leaf species using a Neural Network architecture. The Leaf Classification dataset is used to train and evaluate the model. The neural network model is implemented using the Keras library with TensorFlow backend.
 
+## Data will be found at this link: https://www.kaggle.com/c/leaf-classification/data
+
+
 ## Data Description:
 
 
